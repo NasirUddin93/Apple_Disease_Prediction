@@ -1,0 +1,25 @@
+# Core Python Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Deep Learning Framework
+tensorflow==2.20.0
+
+# Image Processing
+opencv-python
+Pillow
+
+# Web Framework for Deployment
+Flask==3.0.3
+
+# For Data Augmentation & Directory Loading
+scikit-learn
+
+# Optional: If you use GPU (remove if CPU only)
+#tensorflow-gpu==2.15.0
+
+# For Model Evaluation
+#jupyter
+#notebook
